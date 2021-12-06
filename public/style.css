@@ -1,0 +1,9 @@
+
+    body {
+   background:  url("pexels_coffee_royaltyfree.jpeg");
+   -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
