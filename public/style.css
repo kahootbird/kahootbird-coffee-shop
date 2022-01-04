@@ -1,9 +1,17 @@
+body {
+  background:  url("pexels_coffee_royaltyfree.jpeg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
 
-    body {
-   background:  url("pexels_coffee_royaltyfree.jpeg");
-   -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    color: white;
+.menu
+{
+  position: relative;
+  left: 50%;
+  padding 100px;
+  display: flex;
+  font-size: 30px;
 }
