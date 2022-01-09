@@ -25,10 +25,11 @@ body {
 .menu
 {
   position: absolute;
-
-  padding 100px;
-  display: flex;
   font-size: 30px;
+
+      left: 40%;
+  text-align:center;
+  margin:0px;
 }
 
 .small-text
@@ -36,11 +37,31 @@ body {
   position: absolute;
   top: 30%;
   left: 20%;
-    font-size: 25px;
+  font-family: cursive;
+  font-size: 75px;
 }
 
 .menu-right
 {
   position: absolute;
   left: 50%;
+  font-size: 30px;
+}
+
+
+.container{
+  position: aboslute;
+    width:40%;
+    background:#000;
+    text-align:center;
+    margin:20px;
+}
+
+
+.text-menu{
+    position: relative;
+        left: 40%;
+    text-align:center;
+    margin:0px;
+
 }
